@@ -1,7 +1,7 @@
-Project Overview
+**Project Overview**
 This project explores various aspects of agricultural production using three distinct datasets. The analysis aims to uncover trends, relationships, and improvements in crop yields, land use, and production indices across multiple countries.
 
-Datasets
+**Datasets**
 1. Agriculture Production Dataset
 Description: Contains data on various agricultural products' production volumes across different countries and years.
 Key Metrics: Gross Production Index (PIN), Yield
@@ -12,7 +12,7 @@ Key Metrics: Area of Agricultural Land
 Description: Includes data on climate-related factors such as temperature and precipitation, by country and year, which are essential in understanding the impact on crop production.
 Key Metrics: Temperature, Precipitation
 
-Hypotheses Tested and Analysis
+**Hypotheses Tested and Analysis**
 Hypothesis 1: Net Production Index (PIN) and Crop Yield Trends
 Objective: To analyze the trends in the Net Production Index and crop yields over time in various countries.
 Method: Aggregated data by country and year for the Net Production Index (base 1999-2001) and crop yield.
@@ -49,15 +49,15 @@ Method: Analyzed the area harvested data over time for these crops.
 Results: The area harvested for maize showed a consistent increase, while the trend for grapes was more variable.
 Visualization: Line plots tracking the changes in harvested area over time.
 
-Key Insights
+**Key Insights**
 Technological Advancements: Significant improvements in crop yields over time point to the role of technology and improved agricultural practices.
 Climate Impact: The data analysis underscores the importance of climate factors, particularly in maize production, influencing yield outcomes.
 Land Use: The positive correlation between agricultural land area and production index reaffirms the critical role of land use in agricultural productivity.
 
-Requirements
+**Requirements**
 Python 3.x
 Pandas
 Matplotlib
 
-Conclusion
+**Conclusion**
 This project provides a comprehensive analysis of agricultural trends, utilizing data-driven insights to explore key factors that influence crop production, yields, and land use. The findings from this analysis can inform future agricultural strategies and policies.
