@@ -19,6 +19,7 @@ Key Metrics: Temperature, Precipitation
 **Hypothesis 1: Net Production Index (PIN) and Crop Yield Trends**
 
 **Objective:** To analyze the trends in the Net Production Index and crop yields over time in various countries.
+
 **Method:** Aggregated data by country and year for the Net Production Index (base 1999-2001) and crop yield.
 **Results:** The analysis revealed distinct trends for India, the USA, and China, highlighting the varying levels of agricultural productivity and technological advancements.
 **Visualization:** Line plots comparing Net PIN and crop yield trends.
